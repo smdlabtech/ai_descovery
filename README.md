@@ -1,2 +1,2 @@
-# ai_descovery
-Plateforme centralisée de ressources sur l'IA
+# PLATEFORME CENTRALISÉE DE RESSOURCES SUR L'IA
+
