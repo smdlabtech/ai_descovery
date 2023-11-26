@@ -4,6 +4,9 @@
 ## Tables de matières :  
 [1- generative-ai-for-beginners (by Microsoft)](https://github.com/microsoft/generative-ai-for-beginners)
 
+## Sources - Réseaux sociaux :
+[linkedin]
+
 ### DÉCOUVERTES ET APPRENTISSAGES :  
 
 
