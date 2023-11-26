@@ -1,5 +1,5 @@
 # PLATEFORME CENTRALISÉE DE RESSOURCES SUR L'IA  
-*Latest releases in AI* :
+*Latest releases in AI* :  
 [linkedin](social_media/linkedin.md)
 
 ## Tables de matières :  
