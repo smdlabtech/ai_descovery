@@ -6,4 +6,7 @@
 ### DÉCOUVERTES ET APPRENTISSAGES :  
 
 
-### APPLICATIONS :  
+### APPLICATIONS & PLATEFORMES :  
+brose.ai pour scrapper des données
+https://www.booking.com/booking-home/country/sn.fr.html  
+
