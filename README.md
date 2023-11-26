@@ -1,4 +1,5 @@
-# PLATEFORME CENTRALISÉE DE RESSOURCES SUR L'IA
+# PLATEFORME CENTRALISÉE DE RESSOURCES SUR L'IA  
+*Lastest releases in AI*
 
 ## Tables de matières :  
 [1- generative-ai-for-beginners (by Microsoft)](https://github.com/microsoft/generative-ai-for-beginners)
