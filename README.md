@@ -1,6 +1,7 @@
 # PLATEFORME CENTRALISÉE DE RESSOURCES SUR L'IA  
 *Latest releases in AI* :  
-[linkedin](social_media/linkedin.md)
+1- [linkedin](social_media/linkedin.md)
+2-
 
 ## Tables de matières :  
 [1- generative-ai-for-beginners (by Microsoft)](https://github.com/microsoft/generative-ai-for-beginners)
