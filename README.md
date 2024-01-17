@@ -1,6 +1,10 @@
 # PLATEFORME CENTRALISÉE DE RESSOURCES SUR L'IA ET TOUTES AUTRES TECHNOLOGIES
-*Latest releases in AI* :  
+*Les dernières publications sur le réseaux* :  
 [1- linkedin (by smdlabctech)](social_media/linkedin.md)  
+
+### INTELLIGENCES ARTIFICIELLES :  
+*Latest releases in AI* :  
+[1- bard.ia](https://bard.google.com/)  
 
 
 ## Tables de matières :  
@@ -11,9 +15,11 @@
 
 
 ### DÉCOUVERTES ET APPRENTISSAGES :  
+## Tables de matières :  
 
 
 ### APPLICATIONS & PLATEFORMES :  
-[brose.ai](https://www.browse.ai/) pour scrapper des données.  
+## Tables de matières :  
+[1- brose.ai](https://www.browse.ai/) pour scrapper des données.  
 
 
