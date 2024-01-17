@@ -1,6 +1,6 @@
 # PLATEFORME CENTRALISÉE DE RESSOURCES SUR L'IA ET TOUTES AUTRES TECHNOLOGIES
 *Latest releases in AI* :  
-[1- linkedin](social_media/linkedin.md)  
+[1- linkedin (by smdlabctech)](social_media/linkedin.md)  
 
 
 ## Tables de matières :  
@@ -14,6 +14,6 @@
 
 
 ### APPLICATIONS & PLATEFORMES :  
-brose.ai pour scrapper des données
-https://www.booking.com/booking-home/country/sn.fr.html  
+[brose.ai](https://www.booking.com/booking-home/country/sn.fr.html) pour scrapper des données.  
+
 
