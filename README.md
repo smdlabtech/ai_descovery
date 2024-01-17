@@ -4,7 +4,7 @@
 
 
 ## Tables de matières :  
-[1- generative-ai-for-beginners (by Microsoft)](https://github.com/microsoft/generative-ai-for-beginners)  
+[1- Generative-ai-for-beginners (by Microsoft)](https://github.com/microsoft/generative-ai-for-beginners)  
 [2- Google Cloud Certifications](https://cloud.google.com/learn/certification?hl=fr)  
 [3- Google Workspace](https://workspace.google.com/intl/fr/essentials/#)  
 [4- Google courses and tools](https://grow.google/intl/fr_fr/courses-and-tools/?category=career&type=live-events)  
