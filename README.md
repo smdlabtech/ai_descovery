@@ -3,7 +3,7 @@
 [1- linkedin (by smdlabctech)](social_media/linkedin.md)  
 
 ### INTELLIGENCES ARTIFICIELLES :  
-*Latest releases in AI* :  
+*Latest releases AI* :  
 [1- bard.ia](https://bard.google.com/)  
 [2- leonardo.ai](https://app.leonardo.ai/)  
 [3- mistral.ai](https://console.mistral.ai/)  
