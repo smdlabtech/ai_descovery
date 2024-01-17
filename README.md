@@ -14,6 +14,6 @@
 
 
 ### APPLICATIONS & PLATEFORMES :  
-[brose.ai](https://www.booking.com/booking-home/country/sn.fr.html) pour scrapper des données.  
+[brose.ai](https://www.browse.ai/) pour scrapper des données.  
 
 
