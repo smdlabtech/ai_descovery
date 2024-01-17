@@ -7,7 +7,7 @@
 [1- bard.ia](https://bard.google.com/)  
 
 
-## Tables de matières :  
+## Liste :  
 [1- Generative-ai-for-beginners (by Microsoft)](https://github.com/microsoft/generative-ai-for-beginners)  
 [2- Google Cloud Certifications](https://cloud.google.com/learn/certification?hl=fr)  
 [3- Google Workspace](https://workspace.google.com/intl/fr/essentials/#)  
@@ -15,11 +15,11 @@
 
 
 ### DÉCOUVERTES ET APPRENTISSAGES :  
-## Tables de matières :  
+## Liste :  
 
 
 ### APPLICATIONS & PLATEFORMES :  
-## Tables de matières :  
+## Liste :  
 [1- brose.ai](https://www.browse.ai/) pour scrapper des données.  
 
 
