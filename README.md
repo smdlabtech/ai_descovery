@@ -12,7 +12,8 @@
 
 
 
-**NB :** GPT Excel permet de générer des script Apps-script. Par exemple, voir [Google sheets - apps script](https://gptexcel.uk/scripts) 
+**Remarques :** 
+1- GPT Excel permet de générer des script Apps-script. Par exemple, voir [Google sheets - apps script](https://gptexcel.uk/scripts) 
 
 ## Liste :  
 [1- Generative-ai-for-beginners (by Microsoft)](https://github.com/microsoft/generative-ai-for-beginners)  
