@@ -12,7 +12,7 @@
 
 
 
-**Remarques :** 
+**Remarques :**  
 1- GPT Excel permet de générer des script Apps-script. Par exemple, voir [Google sheets - apps script](https://gptexcel.uk/scripts) 
 
 ## Liste :  
