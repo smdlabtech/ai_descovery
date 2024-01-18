@@ -8,6 +8,7 @@
 [2- leonardo.ai](https://app.leonardo.ai/)  
 [3- mistral.ai](https://console.mistral.ai/)  
 [4- chatdoc.com](https://chatdoc.com/chatdoc/#/upload)  
+[5- gptexcel.uk](https://gptexcel.uk/dashboard) 
 
 
 
