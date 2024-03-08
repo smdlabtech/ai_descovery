@@ -1,6 +1,6 @@
 # PLATEFORME CENTRALISÉE DE RESSOURCES SUR L'IA ET TOUTES AUTRES TECHNOLOGIES
 
-*Les dernières publications sur le réseaux* :  
+*Les dernières publications sur mes réseaux* :  
 [1- linkedin (by smdlabctech)](social_media/linkedin.md)  
 
 ### INTELLIGENCES ARTIFICIELLES :  
